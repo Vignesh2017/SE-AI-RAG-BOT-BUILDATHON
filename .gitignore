@@ -16,3 +16,9 @@ venv/
 # Local vector indexes / uploaded data
 faiss_index/
 uploads/
+
+# NeMo Guardrails auto-generated configs
+nemo_config/
+
+# Auto-generated vector database and metadata
+data/index/
